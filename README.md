@@ -24,3 +24,6 @@ PHP MY ADMIN
 # SERVER
 XAMP AND TOMCAT
 
+# LOCAL HOSTING
+http://localhost:3306
+
